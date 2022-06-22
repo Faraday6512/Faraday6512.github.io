@@ -45,11 +45,11 @@ gSound[SLOT_SOUND] = loadSound('media/slot_sound.wav')
 
 gImages[FOREST_BACKGROUND] = loadImage('media/forest.png');
 gImages[MARKET_BACKGROUND] = loadImage('media/market.png')
-gImages[GOLD_ICON] = loadImage('/media/gold.png');
-gImages[IRON_ICON] = loadImage('/media/iron.png');
-gImages[LOG_ICON] = loadImage(https://faraday6512.github.io/media/log.png);
-gImages[ROCKET_BODY_ICON] = loadImage('/media/rocket_body_icon.png');
-gImages[ROCKET_ENGINE_ICON] = loadImage('/media/rocket_engine_icon.png');
+gImages[GOLD_ICON] = loadImage('media/gold.png');
+gImages[IRON_ICON] = loadImage('media/iron.png');
+gImages[LOG_ICON] = loadImage('media/log.png');
+gImages[ROCKET_BODY_ICON] = loadImage('media/rocket_body_icon.png');
+gImages[ROCKET_ENGINE_ICON] = loadImage('media/rocket_engine_icon.png');
 gImages[ROCKET_HEAD_ICON] = loadImage('media/rocket_head_icon.png');
 gImages[SELL_SIGN] = loadImage('media/sell_sign.png');
 gImages[BUY_SIGN] = loadImage('media/buy_sign.png');
